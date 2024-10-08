@@ -1,0 +1,8 @@
+h2{
+    color: rgb(111, 210, 30);
+    background-color: blueviolet;
+}
+nav ul li{
+    display: inline;
+    margin: 0 10px;
+}
